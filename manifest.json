@@ -1,7 +1,7 @@
 {
-  "id": "example.mana",
+  "id": "ex.mana",
   "version": "0.0.1",
-  "name": "Manatastic",
+  "name": "Man",
   "description": "editor",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
