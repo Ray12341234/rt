@@ -1,0 +1,14 @@
+{
+  "metas": [
+    {
+      "id": "Mana",
+       "name": "Mana",
+        "year": 2025,
+        "poster": "https://i.pinimg.com/originals/76/3e/6f/763e6fbb1967457dc99e05f8d08ecbd7.jpg",
+        "posterShape": "regular",
+        "banner": "https://i.pinimg.com/originals/2e/a9/74/2ea974cbaee5cbfe46ca2bcb78751c09.jpg",
+        "isFree": true,
+        "type": "movie"
+    }
+  ]
+}
