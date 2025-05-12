@@ -1,0 +1,15 @@
+{
+  "id": "example.mana",
+  "version": "0.0.1",
+  "name": "Manatastic",
+  "description": "editor",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "ManaCatalog",
+      "name": "ManaCatalog"
+    }
+  ]
+}
